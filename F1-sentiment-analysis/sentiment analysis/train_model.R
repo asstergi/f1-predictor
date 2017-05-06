@@ -1,3 +1,5 @@
+# Code taken from http://analyzecore.com/2017/02/08/twitter-sentiment-analysis-doc2vec/
+
 # loading packages
 library(twitteR)
 library(ROAuth)
