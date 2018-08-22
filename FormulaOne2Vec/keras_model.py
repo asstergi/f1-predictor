@@ -219,7 +219,7 @@ if __name__ == '__main__':
 
     for l, f in zip(layer_names, friendly_names):
         embeddings = model.get_layer(l).get_weights()[0]
-        np.save(f + "-del.npy", embeddings)
+        np.save(f + ".npy", embeddings)
 
     ###########################################
     ######## Save tokenizer values ###########
@@ -233,5 +233,5 @@ if __name__ == '__main__':
         for i in sorted_x:
             names.append(i[0].title().replace('_', ' ').replace('Grand Prix', 'GP'))
 
-        with open(f + "-del.txt", "w") as file:
+        with open(f + ".txt", "w") as file:
             file.write(str(names))
