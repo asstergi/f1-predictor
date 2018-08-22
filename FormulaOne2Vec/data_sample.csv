@@ -1,0 +1,360 @@
+constructor,driver,grid,race,result,year,previous_race,previous_race_result,previous_race_quali,previous_race_change_in_position,wins,this_race_last_year_result,driver_standing_in_season,constructor_standing_in_season,driver_championship_standings_last_year,constructor_championship_standings_last_year,gp,constructor_year
+ferrari,michael_schumacher,2,European Grand Prix_2006,1,2006,San Marino Grand Prix_2006,1,1,0,1,5,2,3,3,3,European Grand Prix,ferrari_2006
+renault,alonso,1,European Grand Prix_2006,2,2006,San Marino Grand Prix_2006,2,5,-3,2,1,1,1,1,1,European Grand Prix,renault_2006
+ferrari,massa,3,European Grand Prix_2006,3,2006,San Marino Grand Prix_2006,4,4,0,0,14,7,3,13,3,European Grand Prix,ferrari_2006
+mclaren,raikkonen,5,European Grand Prix_2006,4,2006,San Marino Grand Prix_2006,5,8,-3,0,11,3,2,2,2,European Grand Prix,mclaren_2006
+honda,barrichello,4,European Grand Prix_2006,5,2006,San Marino Grand Prix_2006,10,3,7,0,3,12,4,8,-1,European Grand Prix,honda_2006
+renault,fisichella,11,European Grand Prix_2006,6,2006,San Marino Grand Prix_2006,8,11,-3,1,6,4,1,5,1,European Grand Prix,renault_2006
+williams,rosberg,22,European Grand Prix_2006,7,2006,San Marino Grand Prix_2006,11,13,-2,0,0,13,6,-1,5,European Grand Prix,williams_2006
+bmw_sauber,villeneuve,9,European Grand Prix_2006,8,2006,San Marino Grand Prix_2006,12,12,0,0,13,11,5,14,-1,European Grand Prix,bmw_sauber_2006
+toyota,trulli,7,European Grand Prix_2006,9,2006,San Marino Grand Prix_2006,21,9,12,0,8,17,7,7,4,European Grand Prix,toyota_2006
+bmw_sauber,heidfeld,13,European Grand Prix_2006,10,2006,San Marino Grand Prix_2006,13,15,-2,0,2,10,5,11,-1,European Grand Prix,bmw_sauber_2006
+toro_rosso,speed,17,European Grand Prix_2006,11,2006,San Marino Grand Prix_2006,15,18,-3,0,0,16,9,-1,-1,European Grand Prix,toro_rosso_2006
+mf1,monteiro,18,European Grand Prix_2006,12,2006,San Marino Grand Prix_2006,16,19,-3,0,15,21,10,16,-1,European Grand Prix,mf1_2006
+mf1,albers,16,European Grand Prix_2006,13,2006,San Marino Grand Prix_2006,22,20,2,0,17,19,10,19,-1,European Grand Prix,mf1_2006
+renault,alonso,1,British Grand Prix_2006,1,2006,Monaco Grand Prix_2006,1,1,0,4,2,1,1,1,1,British Grand Prix,renault_2006
+ferrari,michael_schumacher,3,British Grand Prix_2006,2,2006,Monaco Grand Prix_2006,5,22,-17,2,6,2,2,3,3,British Grand Prix,ferrari_2006
+mclaren,raikkonen,2,British Grand Prix_2006,3,2006,Monaco Grand Prix_2006,20,3,17,0,3,4,3,2,2,British Grand Prix,mclaren_2006
+renault,fisichella,5,British Grand Prix_2006,4,2006,Monaco Grand Prix_2006,6,9,-3,1,4,3,1,5,1,British Grand Prix,renault_2006
+ferrari,massa,4,British Grand Prix_2006,5,2006,Monaco Grand Prix_2006,9,21,-12,0,10,6,2,13,3,British Grand Prix,ferrari_2006
+mclaren,montoya,8,British Grand Prix_2006,6,2006,Monaco Grand Prix_2006,2,4,-2,0,1,5,3,4,2,British Grand Prix,mclaren_2006
+bmw_sauber,heidfeld,9,British Grand Prix_2006,7,2006,Monaco Grand Prix_2006,7,15,-8,0,12,10,5,11,-1,British Grand Prix,bmw_sauber_2006
+bmw_sauber,villeneuve,10,British Grand Prix_2006,8,2006,Monaco Grand Prix_2006,14,14,0,0,14,13,5,14,-1,British Grand Prix,bmw_sauber_2006
+williams,rosberg,12,British Grand Prix_2006,9,2006,Monaco Grand Prix_2006,19,8,11,0,0,14,6,-1,5,British Grand Prix,williams_2006
+honda,barrichello,6,British Grand Prix_2006,10,2006,Monaco Grand Prix_2006,4,5,-1,0,7,8,4,8,-1,British Grand Prix,honda_2006
+toyota,trulli,22,British Grand Prix_2006,11,2006,Monaco Grand Prix_2006,17,6,11,0,9,16,7,7,4,British Grand Prix,toyota_2006
+red_bull,coulthard,11,British Grand Prix_2006,12,2006,Monaco Grand Prix_2006,3,7,-4,0,13,11,8,12,7,British Grand Prix,red_bull_2006
+toro_rosso,liuzzi,13,British Grand Prix_2006,13,2006,Monaco Grand Prix_2006,10,12,-2,0,0,18,9,24,-1,British Grand Prix,toro_rosso_2006
+red_bull,klien,14,British Grand Prix_2006,14,2006,Monaco Grand Prix_2006,18,11,7,0,15,15,8,15,7,British Grand Prix,red_bull_2006
+mf1,albers,18,British Grand Prix_2006,15,2006,Monaco Grand Prix_2006,12,16,-4,0,18,19,10,19,-1,British Grand Prix,mf1_2006
+mf1,monteiro,16,British Grand Prix_2006,16,2006,Monaco Grand Prix_2006,15,17,-2,0,17,20,10,16,-1,British Grand Prix,mf1_2006
+super_aguri,sato,20,British Grand Prix_2006,17,2006,Monaco Grand Prix_2006,22,19,3,0,16,21,11,23,-1,British Grand Prix,super_aguri_2006
+super_aguri,montagny,21,British Grand Prix_2006,18,2006,Monaco Grand Prix_2006,16,20,-4,0,0,23,11,-1,-1,British Grand Prix,super_aguri_2006
+renault,alonso,1,Canadian Grand Prix_2006,1,2006,British Grand Prix_2006,1,1,0,5,17,1,1,1,1,Canadian Grand Prix,renault_2006
+ferrari,michael_schumacher,5,Canadian Grand Prix_2006,2,2006,British Grand Prix_2006,2,3,-1,2,2,2,2,3,3,Canadian Grand Prix,ferrari_2006
+mclaren,raikkonen,3,Canadian Grand Prix_2006,3,2006,British Grand Prix_2006,3,2,1,0,1,3,3,2,2,Canadian Grand Prix,mclaren_2006
+renault,fisichella,2,Canadian Grand Prix_2006,4,2006,British Grand Prix_2006,4,5,-1,1,18,4,1,5,1,Canadian Grand Prix,renault_2006
+ferrari,massa,10,Canadian Grand Prix_2006,5,2006,British Grand Prix_2006,5,4,1,0,4,6,2,13,3,Canadian Grand Prix,ferrari_2006
+toyota,trulli,4,Canadian Grand Prix_2006,6,2006,British Grand Prix_2006,11,22,-11,0,12,16,7,7,4,Canadian Grand Prix,toyota_2006
+bmw_sauber,heidfeld,13,Canadian Grand Prix_2006,7,2006,British Grand Prix_2006,7,9,-2,0,14,9,5,11,-1,Canadian Grand Prix,bmw_sauber_2006
+red_bull,coulthard,22,Canadian Grand Prix_2006,8,2006,British Grand Prix_2006,12,11,1,0,7,11,8,12,7,Canadian Grand Prix,red_bull_2006
+honda,button,8,Canadian Grand Prix_2006,9,2006,British Grand Prix_2006,19,19,0,0,13,7,4,9,-1,Canadian Grand Prix,honda_2006
+toro_rosso,speed,17,Canadian Grand Prix_2006,10,2006,British Grand Prix_2006,20,15,5,0,0,17,9,-1,-1,Canadian Grand Prix,toro_rosso_2006
+red_bull,klien,12,Canadian Grand Prix_2006,11,2006,British Grand Prix_2006,14,14,0,0,8,15,8,15,7,Canadian Grand Prix,red_bull_2006
+williams,webber,16,Canadian Grand Prix_2006,12,2006,British Grand Prix_2006,22,17,5,0,5,13,6,10,5,Canadian Grand Prix,williams_2006
+toro_rosso,liuzzi,15,Canadian Grand Prix_2006,13,2006,British Grand Prix_2006,13,13,0,0,0,18,9,24,-1,Canadian Grand Prix,toro_rosso_2006
+mf1,monteiro,18,Canadian Grand Prix_2006,14,2006,British Grand Prix_2006,16,16,0,0,10,20,10,16,-1,Canadian Grand Prix,mf1_2006
+super_aguri,sato,20,Canadian Grand Prix_2006,15,2006,British Grand Prix_2006,17,20,-3,0,15,21,11,23,-1,Canadian Grand Prix,super_aguri_2006
+ferrari,michael_schumacher,1,French Grand Prix_2006,1,2006,United States Grand Prix_2006,1,1,0,3,3,2,2,3,3,French Grand Prix,ferrari_2006
+renault,alonso,3,French Grand Prix_2006,2,2006,United States Grand Prix_2006,5,5,0,6,1,1,1,1,1,French Grand Prix,renault_2006
+ferrari,massa,2,French Grand Prix_2006,3,2006,United States Grand Prix_2006,2,2,0,0,19,5,2,13,3,French Grand Prix,ferrari_2006
+toyota,ralf_schumacher,5,French Grand Prix_2006,4,2006,United States Grand Prix_2006,10,8,2,0,7,11,6,6,4,French Grand Prix,toyota_2006
+mclaren,raikkonen,6,French Grand Prix_2006,5,2006,United States Grand Prix_2006,16,9,7,0,2,4,3,2,2,French Grand Prix,mclaren_2006
+renault,fisichella,7,French Grand Prix_2006,6,2006,United States Grand Prix_2006,3,3,0,1,6,3,1,5,1,French Grand Prix,renault_2006
+mclaren,rosa,8,French Grand Prix_2006,7,2006,United States Grand Prix_2006,0,0,0,0,0,-1,3,20,2,French Grand Prix,mclaren_2006
+bmw_sauber,heidfeld,11,French Grand Prix_2006,8,2006,United States Grand Prix_2006,17,10,7,0,14,9,5,11,-1,French Grand Prix,bmw_sauber_2006
+red_bull,coulthard,9,French Grand Prix_2006,9,2006,United States Grand Prix_2006,7,17,-10,0,10,10,7,12,7,French Grand Prix,red_bull_2006
+toro_rosso,speed,14,French Grand Prix_2006,10,2006,United States Grand Prix_2006,20,13,7,0,0,18,9,-1,-1,French Grand Prix,toro_rosso_2006
+bmw_sauber,villeneuve,16,French Grand Prix_2006,11,2006,United States Grand Prix_2006,12,6,6,0,8,13,5,14,-1,French Grand Prix,bmw_sauber_2006
+red_bull,klien,12,French Grand Prix_2006,12,2006,United States Grand Prix_2006,21,16,5,0,20,17,7,15,7,French Grand Prix,red_bull_2006
+toro_rosso,liuzzi,22,French Grand Prix_2006,13,2006,United States Grand Prix_2006,8,20,-12,0,0,16,9,24,-1,French Grand Prix,toro_rosso_2006
+williams,rosberg,18,French Grand Prix_2006,14,2006,United States Grand Prix_2006,9,21,-12,0,0,15,8,-1,5,French Grand Prix,williams_2006
+mf1,albers,15,French Grand Prix_2006,15,2006,United States Grand Prix_2006,11,14,-3,0,17,19,10,19,-1,French Grand Prix,mf1_2006
+super_aguri,montagny,20,French Grand Prix_2006,16,2006,United States Grand Prix_2006,22,19,3,0,0,23,11,-1,-1,French Grand Prix,super_aguri_2006
+ferrari,michael_schumacher,2,German Grand Prix_2006,1,2006,French Grand Prix_2006,1,1,0,4,5,2,2,3,3,German Grand Prix,ferrari_2006
+ferrari,massa,3,German Grand Prix_2006,2,2006,French Grand Prix_2006,3,2,1,0,8,5,2,13,3,German Grand Prix,ferrari_2006
+mclaren,raikkonen,1,German Grand Prix_2006,3,2006,French Grand Prix_2006,5,6,-1,0,20,4,3,2,2,German Grand Prix,mclaren_2006
+honda,button,4,German Grand Prix_2006,4,2006,French Grand Prix_2006,17,17,0,0,3,7,4,9,-1,German Grand Prix,honda_2006
+renault,alonso,7,German Grand Prix_2006,5,2006,French Grand Prix_2006,2,3,-1,6,1,1,1,1,1,German Grand Prix,renault_2006
+renault,fisichella,5,German Grand Prix_2006,6,2006,French Grand Prix_2006,6,7,-1,1,4,3,1,5,1,German Grand Prix,renault_2006
+toyota,trulli,20,German Grand Prix_2006,7,2006,French Grand Prix_2006,19,4,15,0,14,12,5,7,4,German Grand Prix,toyota_2006
+red_bull,klien,12,German Grand Prix_2006,8,2006,French Grand Prix_2006,12,12,0,0,9,18,7,15,7,German Grand Prix,red_bull_2006
+toyota,ralf_schumacher,8,German Grand Prix_2006,9,2006,French Grand Prix_2006,4,5,-1,0,6,9,5,6,4,German Grand Prix,toyota_2006
+toro_rosso,liuzzi,16,German Grand Prix_2006,10,2006,French Grand Prix_2006,13,22,-9,0,0,17,9,24,-1,German Grand Prix,toro_rosso_2006
+red_bull,coulthard,10,German Grand Prix_2006,11,2006,French Grand Prix_2006,9,9,0,0,7,11,7,12,7,German Grand Prix,red_bull_2006
+toro_rosso,speed,19,German Grand Prix_2006,12,2006,French Grand Prix_2006,10,14,-4,0,0,19,9,-1,-1,German Grand Prix,toro_rosso_2006
+honda,button,14,Hungarian Grand Prix_2006,1,2006,German Grand Prix_2006,4,4,0,0,5,7,4,9,-1,Hungarian Grand Prix,honda_2006
+mclaren,rosa,4,Hungarian Grand Prix_2006,2,2006,German Grand Prix_2006,18,9,9,0,0,16,3,20,2,Hungarian Grand Prix,mclaren_2006
+bmw_sauber,heidfeld,10,Hungarian Grand Prix_2006,3,2006,German Grand Prix_2006,17,15,2,0,6,10,6,11,-1,Hungarian Grand Prix,bmw_sauber_2006
+honda,barrichello,3,Hungarian Grand Prix_2006,4,2006,German Grand Prix_2006,16,6,10,0,10,8,4,8,-1,Hungarian Grand Prix,honda_2006
+red_bull,coulthard,12,Hungarian Grand Prix_2006,5,2006,German Grand Prix_2006,11,10,1,0,19,11,7,12,7,Hungarian Grand Prix,red_bull_2006
+toyota,ralf_schumacher,6,Hungarian Grand Prix_2006,6,2006,German Grand Prix_2006,9,8,1,0,3,9,5,6,4,Hungarian Grand Prix,toyota_2006
+ferrari,massa,2,Hungarian Grand Prix_2006,7,2006,German Grand Prix_2006,2,3,-1,0,14,3,2,13,3,Hungarian Grand Prix,ferrari_2006
+ferrari,michael_schumacher,11,Hungarian Grand Prix_2006,8,2006,German Grand Prix_2006,1,2,-1,5,2,2,2,3,3,Hungarian Grand Prix,ferrari_2006
+mf1,monteiro,16,Hungarian Grand Prix_2006,9,2006,German Grand Prix_2006,22,18,4,0,13,21,10,16,-1,Hungarian Grand Prix,mf1_2006
+mf1,albers,22,Hungarian Grand Prix_2006,10,2006,German Grand Prix_2006,21,21,0,0,15,20,10,19,-1,Hungarian Grand Prix,mf1_2006
+toro_rosso,speed,20,Hungarian Grand Prix_2006,11,2006,German Grand Prix_2006,12,19,-7,0,0,19,9,-1,-1,Hungarian Grand Prix,toro_rosso_2006
+toyota,trulli,8,Hungarian Grand Prix_2006,12,2006,German Grand Prix_2006,7,20,-13,0,4,12,5,7,4,Hungarian Grand Prix,toyota_2006
+super_aguri,sato,19,Hungarian Grand Prix_2006,13,2006,German Grand Prix_2006,14,17,-3,0,8,22,11,23,-1,Hungarian Grand Prix,super_aguri_2006
+ferrari,michael_schumacher,6,Chinese Grand Prix_2006,1,2006,Italian Grand Prix_2006,1,2,-1,6,20,2,1,3,3,Chinese Grand Prix,ferrari_2006
+renault,alonso,1,Chinese Grand Prix_2006,2,2006,Italian Grand Prix_2006,19,10,9,6,1,1,2,1,1,Chinese Grand Prix,renault_2006
+renault,fisichella,2,Chinese Grand Prix_2006,3,2006,Italian Grand Prix_2006,4,9,-5,1,4,4,2,5,1,Chinese Grand Prix,renault_2006
+honda,button,4,Chinese Grand Prix_2006,4,2006,Italian Grand Prix_2006,5,5,0,1,8,6,4,9,-1,Chinese Grand Prix,honda_2006
+mclaren,rosa,7,Chinese Grand Prix_2006,5,2006,Italian Grand Prix_2006,20,7,13,0,0,11,3,20,2,Chinese Grand Prix,mclaren_2006
+honda,barrichello,3,Chinese Grand Prix_2006,6,2006,Italian Grand Prix_2006,6,8,-2,0,12,8,4,8,-1,Chinese Grand Prix,honda_2006
+bmw_sauber,heidfeld,8,Chinese Grand Prix_2006,7,2006,Italian Grand Prix_2006,8,3,5,0,0,9,5,11,-1,Chinese Grand Prix,bmw_sauber_2006
+williams,webber,14,Chinese Grand Prix_2006,8,2006,Italian Grand Prix_2006,10,19,-9,0,7,16,8,10,5,Chinese Grand Prix,williams_2006
+red_bull,coulthard,12,Chinese Grand Prix_2006,9,2006,Italian Grand Prix_2006,12,14,-2,0,9,12,7,12,7,Chinese Grand Prix,red_bull_2006
+toro_rosso,liuzzi,13,Chinese Grand Prix_2006,10,2006,Italian Grand Prix_2006,14,17,-3,0,0,19,9,24,-1,Chinese Grand Prix,toro_rosso_2006
+williams,rosberg,15,Chinese Grand Prix_2006,11,2006,Italian Grand Prix_2006,22,12,10,0,0,17,8,-1,5,Chinese Grand Prix,williams_2006
+red_bull,doornbos,10,Chinese Grand Prix_2006,12,2006,Italian Grand Prix_2006,0,0,0,0,14,-1,7,25,7,Chinese Grand Prix,red_bull_2006
+bmw_sauber,kubica,9,Chinese Grand Prix_2006,13,2006,Italian Grand Prix_2006,3,6,-3,0,0,15,5,-1,-1,Chinese Grand Prix,bmw_sauber_2006
+toro_rosso,speed,11,Chinese Grand Prix_2006,14,2006,Italian Grand Prix_2006,13,15,-2,0,0,20,9,-1,-1,Chinese Grand Prix,toro_rosso_2006
+spyker_mf1,albers,22,Chinese Grand Prix_2006,15,2006,Italian Grand Prix_2006,17,18,-1,0,16,22,12,19,-1,Chinese Grand Prix,spyker_mf1_2006
+super_aguri,yamamoto,19,Chinese Grand Prix_2006,16,2006,Italian Grand Prix_2006,21,22,-1,0,0,-1,11,-1,-1,Chinese Grand Prix,super_aguri_2006
+ferrari,massa,1,Brazilian Grand Prix_2006,1,2006,Japanese Grand Prix_2006,2,1,1,1,11,3,2,13,3,Brazilian Grand Prix,ferrari_2006
+renault,alonso,4,Brazilian Grand Prix_2006,2,2006,Japanese Grand Prix_2006,1,5,-4,7,3,1,1,1,1,Brazilian Grand Prix,renault_2006
+honda,button,14,Brazilian Grand Prix_2006,3,2006,Japanese Grand Prix_2006,4,7,-3,1,7,6,4,9,-1,Brazilian Grand Prix,honda_2006
+ferrari,michael_schumacher,10,Brazilian Grand Prix_2006,4,2006,Japanese Grand Prix_2006,20,2,18,7,4,2,2,3,3,Brazilian Grand Prix,ferrari_2006
+mclaren,raikkonen,2,Brazilian Grand Prix_2006,5,2006,Japanese Grand Prix_2006,5,11,-6,0,2,5,3,2,2,Brazilian Grand Prix,mclaren_2006
+renault,fisichella,6,Brazilian Grand Prix_2006,6,2006,Japanese Grand Prix_2006,3,6,-3,1,5,4,1,5,1,Brazilian Grand Prix,renault_2006
+honda,barrichello,5,Brazilian Grand Prix_2006,7,2006,Japanese Grand Prix_2006,12,8,4,0,6,7,4,8,-1,Brazilian Grand Prix,honda_2006
+mclaren,rosa,12,Brazilian Grand Prix_2006,8,2006,Japanese Grand Prix_2006,11,13,-2,0,0,11,3,20,2,Brazilian Grand Prix,mclaren_2006
+bmw_sauber,kubica,9,Brazilian Grand Prix_2006,9,2006,Japanese Grand Prix_2006,9,12,-3,0,0,16,5,-1,-1,Brazilian Grand Prix,bmw_sauber_2006
+super_aguri,sato,19,Brazilian Grand Prix_2006,10,2006,Japanese Grand Prix_2006,15,20,-5,0,10,23,11,23,-1,Brazilian Grand Prix,super_aguri_2006
+toro_rosso,speed,16,Brazilian Grand Prix_2006,11,2006,Japanese Grand Prix_2006,18,19,-1,0,0,20,9,-1,-1,Brazilian Grand Prix,toro_rosso_2006
+red_bull,doornbos,22,Brazilian Grand Prix_2006,12,2006,Japanese Grand Prix_2006,13,18,-5,0,18,24,7,25,7,Brazilian Grand Prix,red_bull_2006
+toro_rosso,liuzzi,15,Brazilian Grand Prix_2006,13,2006,Japanese Grand Prix_2006,14,15,-1,0,0,19,9,24,-1,Brazilian Grand Prix,toro_rosso_2006
+spyker_mf1,albers,17,Brazilian Grand Prix_2006,14,2006,Japanese Grand Prix_2006,22,16,6,0,14,22,12,19,-1,Brazilian Grand Prix,spyker_mf1_2006
+spyker_mf1,monteiro,21,Brazilian Grand Prix_2006,15,2006,Japanese Grand Prix_2006,16,21,-5,0,16,21,12,16,-1,Brazilian Grand Prix,spyker_mf1_2006
+super_aguri,yamamoto,20,Brazilian Grand Prix_2006,16,2006,Japanese Grand Prix_2006,17,22,-5,0,0,27,11,-1,-1,Brazilian Grand Prix,super_aguri_2006
+bmw_sauber,heidfeld,8,Brazilian Grand Prix_2006,17,2006,Japanese Grand Prix_2006,8,9,-1,0,0,9,5,11,-1,Brazilian Grand Prix,bmw_sauber_2006
+mclaren,hamilton,1,Canadian Grand Prix_2007,1,2007,Monaco Grand Prix_2007,2,2,0,0,0,2,1,-1,3,Canadian Grand Prix,mclaren_2007
+bmw_sauber,heidfeld,3,Canadian Grand Prix_2007,2,2007,Monaco Grand Prix_2007,6,7,-1,0,7,5,3,9,5,Canadian Grand Prix,bmw_sauber_2007
+williams,wurz,19,Canadian Grand Prix_2007,3,2007,Monaco Grand Prix_2007,7,11,-4,0,0,12,5,-1,8,Canadian Grand Prix,williams_2007
+renault,kovalainen,22,Canadian Grand Prix_2007,4,2007,Monaco Grand Prix_2007,13,15,-2,0,0,11,4,-1,1,Canadian Grand Prix,renault_2007
+ferrari,raikkonen,4,Canadian Grand Prix_2007,5,2007,Monaco Grand Prix_2007,8,16,-8,1,3,4,2,5,2,Canadian Grand Prix,ferrari_2007
+super_aguri,sato,11,Canadian Grand Prix_2007,6,2007,Monaco Grand Prix_2007,17,21,-4,0,15,13,8,23,11,Canadian Grand Prix,super_aguri_2007
+mclaren,alonso,2,Canadian Grand Prix_2007,7,2007,Monaco Grand Prix_2007,1,1,0,2,1,1,1,1,3,Canadian Grand Prix,mclaren_2007
+toyota,ralf_schumacher,18,Canadian Grand Prix_2007,8,2007,Monaco Grand Prix_2007,16,20,-4,0,17,14,6,10,6,Canadian Grand Prix,toyota_2007
+red_bull,webber,6,Canadian Grand Prix_2007,9,2007,Monaco Grand Prix_2007,21,6,15,0,12,17,7,14,7,Canadian Grand Prix,red_bull_2007
+williams,rosberg,7,Canadian Grand Prix_2007,10,2007,Monaco Grand Prix_2007,12,5,7,0,21,8,5,17,8,Canadian Grand Prix,williams_2007
+super_aguri,davidson,17,Canadian Grand Prix_2007,11,2007,Monaco Grand Prix_2007,18,17,1,0,0,19,8,-1,11,Canadian Grand Prix,super_aguri_2007
+honda,barrichello,13,Canadian Grand Prix_2007,12,2007,Monaco Grand Prix_2007,10,9,1,0,19,16,10,7,4,Canadian Grand Prix,honda_2007
+ferrari,raikkonen,3,French Grand Prix_2007,1,2007,United States Grand Prix_2007,4,4,0,1,5,4,2,5,2,French Grand Prix,ferrari_2007
+ferrari,massa,1,French Grand Prix_2007,2,2007,United States Grand Prix_2007,3,3,0,2,3,3,2,3,2,French Grand Prix,ferrari_2007
+mclaren,hamilton,2,French Grand Prix_2007,3,2007,United States Grand Prix_2007,1,1,0,2,0,1,1,-1,3,French Grand Prix,mclaren_2007
+bmw_sauber,kubica,4,French Grand Prix_2007,4,2007,United States Grand Prix_2007,0,0,0,0,0,7,3,16,5,French Grand Prix,bmw_sauber_2007
+bmw_sauber,heidfeld,7,French Grand Prix_2007,5,2007,United States Grand Prix_2007,18,5,13,0,8,5,3,9,5,French Grand Prix,bmw_sauber_2007
+renault,fisichella,5,French Grand Prix_2007,6,2007,United States Grand Prix_2007,9,10,-1,0,6,6,4,4,1,French Grand Prix,renault_2007
+mclaren,alonso,10,French Grand Prix_2007,7,2007,United States Grand Prix_2007,2,2,0,2,2,2,1,1,3,French Grand Prix,mclaren_2007
+honda,button,12,French Grand Prix_2007,8,2007,United States Grand Prix_2007,12,13,-1,0,17,20,10,6,4,French Grand Prix,honda_2007
+williams,rosberg,9,French Grand Prix_2007,9,2007,United States Grand Prix_2007,16,14,2,0,14,11,5,17,8,French Grand Prix,williams_2007
+toyota,ralf_schumacher,11,French Grand Prix_2007,10,2007,United States Grand Prix_2007,22,12,10,0,4,15,6,10,6,French Grand Prix,toyota_2007
+honda,barrichello,13,French Grand Prix_2007,11,2007,United States Grand Prix_2007,21,15,6,0,20,18,10,7,4,French Grand Prix,honda_2007
+red_bull,webber,14,French Grand Prix_2007,12,2007,United States Grand Prix_2007,7,9,-2,0,18,14,7,14,7,French Grand Prix,red_bull_2007
+red_bull,coulthard,16,French Grand Prix_2007,13,2007,United States Grand Prix_2007,20,11,9,0,9,12,7,13,7,French Grand Prix,red_bull_2007
+williams,wurz,18,French Grand Prix_2007,14,2007,United States Grand Prix_2007,10,17,-7,0,0,9,5,-1,8,French Grand Prix,williams_2007
+renault,kovalainen,6,French Grand Prix_2007,15,2007,United States Grand Prix_2007,5,6,-1,0,0,8,4,-1,1,French Grand Prix,renault_2007
+super_aguri,sato,22,French Grand Prix_2007,16,2007,United States Grand Prix_2007,19,18,1,0,22,13,8,23,11,French Grand Prix,super_aguri_2007
+spyker,sutil,21,French Grand Prix_2007,17,2007,United States Grand Prix_2007,14,21,-7,0,0,21,11,-1,-1,French Grand Prix,spyker_2007
+ferrari,raikkonen,2,British Grand Prix_2007,1,2007,French Grand Prix_2007,1,3,-2,2,3,4,2,5,2,British Grand Prix,ferrari_2007
+mclaren,alonso,3,British Grand Prix_2007,2,2007,French Grand Prix_2007,7,10,-3,2,1,2,1,1,3,British Grand Prix,mclaren_2007
+mclaren,hamilton,1,British Grand Prix_2007,3,2007,French Grand Prix_2007,3,2,1,2,0,1,1,-1,3,British Grand Prix,mclaren_2007
+bmw_sauber,kubica,5,British Grand Prix_2007,4,2007,French Grand Prix_2007,4,4,0,0,0,6,3,16,5,British Grand Prix,bmw_sauber_2007
+ferrari,massa,4,British Grand Prix_2007,5,2007,French Grand Prix_2007,2,1,1,2,5,3,2,3,2,British Grand Prix,ferrari_2007
+bmw_sauber,heidfeld,9,British Grand Prix_2007,6,2007,French Grand Prix_2007,5,7,-2,0,7,5,3,9,5,British Grand Prix,bmw_sauber_2007
+renault,kovalainen,7,British Grand Prix_2007,7,2007,French Grand Prix_2007,15,6,9,0,0,8,4,-1,1,British Grand Prix,renault_2007
+renault,fisichella,8,British Grand Prix_2007,8,2007,French Grand Prix_2007,6,5,1,0,4,7,4,4,1,British Grand Prix,renault_2007
+honda,barrichello,14,British Grand Prix_2007,9,2007,French Grand Prix_2007,11,13,-2,0,10,19,9,7,4,British Grand Prix,honda_2007
+honda,button,18,British Grand Prix_2007,10,2007,French Grand Prix_2007,8,12,-4,0,19,16,9,6,4,British Grand Prix,honda_2007
+red_bull,coulthard,12,British Grand Prix_2007,11,2007,French Grand Prix_2007,13,16,-3,0,12,12,7,13,7,British Grand Prix,red_bull_2007
+williams,rosberg,17,British Grand Prix_2007,12,2007,French Grand Prix_2007,9,9,0,0,9,11,5,17,8,British Grand Prix,williams_2007
+williams,wurz,13,British Grand Prix_2007,13,2007,French Grand Prix_2007,14,18,-4,0,0,9,5,-1,8,British Grand Prix,williams_2007
+super_aguri,sato,21,British Grand Prix_2007,14,2007,French Grand Prix_2007,16,22,-6,0,17,13,8,23,11,British Grand Prix,super_aguri_2007
+spyker,albers,22,British Grand Prix_2007,15,2007,French Grand Prix_2007,19,20,-1,0,15,22,11,22,-1,British Grand Prix,spyker_2007
+toro_rosso,liuzzi,16,British Grand Prix_2007,16,2007,French Grand Prix_2007,22,17,5,0,13,23,10,19,9,British Grand Prix,toro_rosso_2007
+mclaren,alonso,2,European Grand Prix_2007,1,2007,British Grand Prix_2007,2,3,-1,2,2,2,1,1,3,European Grand Prix,mclaren_2007
+ferrari,massa,3,European Grand Prix_2007,2,2007,British Grand Prix_2007,5,4,1,2,3,4,2,3,2,European Grand Prix,ferrari_2007
+red_bull,webber,6,European Grand Prix_2007,3,2007,British Grand Prix_2007,22,11,11,0,20,14,7,14,7,European Grand Prix,red_bull_2007
+williams,wurz,12,European Grand Prix_2007,4,2007,British Grand Prix_2007,13,13,0,0,0,9,5,-1,8,European Grand Prix,williams_2007
+red_bull,coulthard,20,European Grand Prix_2007,5,2007,British Grand Prix_2007,11,12,-1,0,21,12,7,13,7,European Grand Prix,red_bull_2007
+bmw_sauber,heidfeld,4,European Grand Prix_2007,6,2007,British Grand Prix_2007,6,9,-3,0,10,5,3,9,5,European Grand Prix,bmw_sauber_2007
+bmw_sauber,kubica,5,European Grand Prix_2007,7,2007,British Grand Prix_2007,4,5,-1,0,0,6,3,16,5,European Grand Prix,bmw_sauber_2007
+renault,kovalainen,7,European Grand Prix_2007,8,2007,British Grand Prix_2007,7,7,0,0,0,8,4,-1,1,European Grand Prix,renault_2007
+mclaren,hamilton,10,European Grand Prix_2007,9,2007,British Grand Prix_2007,3,1,2,2,0,1,1,-1,3,European Grand Prix,mclaren_2007
+renault,fisichella,13,European Grand Prix_2007,10,2007,British Grand Prix_2007,8,8,0,0,6,7,4,4,1,European Grand Prix,renault_2007
+honda,barrichello,14,European Grand Prix_2007,11,2007,British Grand Prix_2007,9,14,-5,0,5,18,9,7,4,European Grand Prix,honda_2007
+super_aguri,davidson,15,European Grand Prix_2007,12,2007,British Grand Prix_2007,18,19,-1,0,0,20,8,-1,11,European Grand Prix,super_aguri_2007
+toyota,trulli,8,European Grand Prix_2007,13,2007,British Grand Prix_2007,17,10,7,0,9,10,6,12,6,European Grand Prix,toyota_2007
+mclaren,hamilton,1,Hungarian Grand Prix_2007,1,2007,European Grand Prix_2007,9,10,-1,2,0,1,1,-1,3,Hungarian Grand Prix,mclaren_2007
+ferrari,raikkonen,3,Hungarian Grand Prix_2007,2,2007,European Grand Prix_2007,14,1,13,3,15,4,2,5,2,Hungarian Grand Prix,ferrari_2007
+bmw_sauber,heidfeld,2,Hungarian Grand Prix_2007,3,2007,European Grand Prix_2007,6,4,2,0,3,5,3,9,5,Hungarian Grand Prix,bmw_sauber_2007
+mclaren,alonso,6,Hungarian Grand Prix_2007,4,2007,European Grand Prix_2007,1,2,-1,3,14,2,1,1,3,Hungarian Grand Prix,mclaren_2007
+bmw_sauber,kubica,7,Hungarian Grand Prix_2007,5,2007,European Grand Prix_2007,7,5,2,0,22,6,3,16,5,Hungarian Grand Prix,bmw_sauber_2007
+toyota,ralf_schumacher,5,Hungarian Grand Prix_2007,6,2007,European Grand Prix_2007,16,9,7,0,6,15,7,10,6,Hungarian Grand Prix,toyota_2007
+williams,rosberg,4,Hungarian Grand Prix_2007,7,2007,European Grand Prix_2007,20,11,9,0,17,13,5,17,8,Hungarian Grand Prix,williams_2007
+renault,kovalainen,11,Hungarian Grand Prix_2007,8,2007,European Grand Prix_2007,8,7,1,0,0,8,4,-1,1,Hungarian Grand Prix,renault_2007
+red_bull,webber,9,Hungarian Grand Prix_2007,9,2007,European Grand Prix_2007,3,6,-3,0,20,10,6,14,7,Hungarian Grand Prix,red_bull_2007
+toyota,trulli,8,Hungarian Grand Prix_2007,10,2007,European Grand Prix_2007,13,8,5,0,12,12,7,12,6,Hungarian Grand Prix,toyota_2007
+red_bull,coulthard,10,Hungarian Grand Prix_2007,11,2007,European Grand Prix_2007,5,20,-15,0,5,11,6,13,7,Hungarian Grand Prix,red_bull_2007
+renault,fisichella,13,Hungarian Grand Prix_2007,12,2007,European Grand Prix_2007,10,13,-3,0,18,7,4,4,1,Hungarian Grand Prix,renault_2007
+ferrari,massa,14,Hungarian Grand Prix_2007,13,2007,European Grand Prix_2007,2,3,-1,2,7,3,2,3,2,Hungarian Grand Prix,ferrari_2007
+williams,wurz,12,Hungarian Grand Prix_2007,14,2007,European Grand Prix_2007,4,12,-8,0,0,9,5,-1,8,Hungarian Grand Prix,williams_2007
+super_aguri,sato,19,Hungarian Grand Prix_2007,15,2007,European Grand Prix_2007,15,16,-1,0,13,14,8,23,11,Hungarian Grand Prix,super_aguri_2007
+toro_rosso,vettel,20,Hungarian Grand Prix_2007,16,2007,European Grand Prix_2007,0,0,0,0,0,17,10,-1,9,Hungarian Grand Prix,toro_rosso_2007
+spyker,sutil,21,Hungarian Grand Prix_2007,17,2007,European Grand Prix_2007,19,21,-2,0,0,21,11,-1,-1,Hungarian Grand Prix,spyker_2007
+honda,barrichello,18,Hungarian Grand Prix_2007,18,2007,European Grand Prix_2007,11,14,-3,0,4,18,9,7,4,Hungarian Grand Prix,honda_2007
+ferrari,raikkonen,2,Chinese Grand Prix_2007,1,2007,Japanese Grand Prix_2007,3,3,0,4,21,3,2,5,2,Chinese Grand Prix,ferrari_2007
+mclaren,alonso,4,Chinese Grand Prix_2007,2,2007,Japanese Grand Prix_2007,21,2,19,4,2,2,1,1,3,Chinese Grand Prix,mclaren_2007
+ferrari,massa,3,Chinese Grand Prix_2007,3,2007,Japanese Grand Prix_2007,6,4,2,3,18,4,2,3,2,Chinese Grand Prix,ferrari_2007
+toro_rosso,vettel,17,Chinese Grand Prix_2007,4,2007,Japanese Grand Prix_2007,19,8,11,0,0,18,11,-1,9,Chinese Grand Prix,toro_rosso_2007
+honda,button,10,Chinese Grand Prix_2007,5,2007,Japanese Grand Prix_2007,11,6,5,0,4,16,9,6,4,Chinese Grand Prix,honda_2007
+toro_rosso,liuzzi,11,Chinese Grand Prix_2007,6,2007,Japanese Grand Prix_2007,9,14,-5,0,10,20,11,19,9,Chinese Grand Prix,toro_rosso_2007
+bmw_sauber,heidfeld,8,Chinese Grand Prix_2007,7,2007,Japanese Grand Prix_2007,14,5,9,0,7,5,3,9,5,Chinese Grand Prix,bmw_sauber_2007
+red_bull,coulthard,5,Chinese Grand Prix_2007,8,2007,Japanese Grand Prix_2007,4,12,-8,0,9,11,6,13,7,Chinese Grand Prix,red_bull_2007
+renault,kovalainen,13,Chinese Grand Prix_2007,9,2007,Japanese Grand Prix_2007,2,11,-9,0,0,7,4,-1,1,Chinese Grand Prix,renault_2007
+red_bull,webber,7,Chinese Grand Prix_2007,10,2007,Japanese Grand Prix_2007,20,7,13,0,8,12,6,14,7,Chinese Grand Prix,red_bull_2007
+renault,fisichella,18,Chinese Grand Prix_2007,11,2007,Japanese Grand Prix_2007,5,10,-5,0,3,8,4,4,1,Chinese Grand Prix,renault_2007
+williams,wurz,19,Chinese Grand Prix_2007,12,2007,Japanese Grand Prix_2007,22,18,4,0,0,10,5,-1,8,Chinese Grand Prix,williams_2007
+toyota,trulli,12,Chinese Grand Prix_2007,13,2007,Japanese Grand Prix_2007,13,13,0,0,19,13,7,12,6,Chinese Grand Prix,toyota_2007
+super_aguri,sato,20,Chinese Grand Prix_2007,14,2007,Japanese Grand Prix_2007,15,21,-6,0,22,15,8,23,11,Chinese Grand Prix,super_aguri_2007
+honda,barrichello,16,Chinese Grand Prix_2007,15,2007,Japanese Grand Prix_2007,10,17,-7,0,6,19,9,7,4,Chinese Grand Prix,honda_2007
+williams,rosberg,15,Chinese Grand Prix_2007,16,2007,Japanese Grand Prix_2007,18,16,2,0,11,9,5,17,8,Chinese Grand Prix,williams_2007
+spyker,yamamoto,22,Chinese Grand Prix_2007,17,2007,Japanese Grand Prix_2007,12,22,-10,0,16,23,10,26,-1,Chinese Grand Prix,spyker_2007
+ferrari,raikkonen,3,Brazilian Grand Prix_2007,1,2007,Chinese Grand Prix_2007,1,2,-1,5,5,3,2,5,2,Brazilian Grand Prix,ferrari_2007
+ferrari,massa,1,Brazilian Grand Prix_2007,2,2007,Chinese Grand Prix_2007,3,3,0,3,1,4,2,3,2,Brazilian Grand Prix,ferrari_2007
+mclaren,alonso,4,Brazilian Grand Prix_2007,3,2007,Chinese Grand Prix_2007,2,4,-2,4,2,2,1,1,3,Brazilian Grand Prix,mclaren_2007
+williams,rosberg,10,Brazilian Grand Prix_2007,4,2007,Chinese Grand Prix_2007,16,15,1,0,22,9,5,17,8,Brazilian Grand Prix,williams_2007
+bmw_sauber,kubica,7,Brazilian Grand Prix_2007,5,2007,Chinese Grand Prix_2007,18,9,9,0,9,6,3,16,5,Brazilian Grand Prix,bmw_sauber_2007
+bmw_sauber,heidfeld,6,Brazilian Grand Prix_2007,6,2007,Chinese Grand Prix_2007,7,8,-1,0,17,5,3,9,5,Brazilian Grand Prix,bmw_sauber_2007
+mclaren,hamilton,2,Brazilian Grand Prix_2007,7,2007,Chinese Grand Prix_2007,19,1,18,4,0,1,1,-1,3,Brazilian Grand Prix,mclaren_2007
+toyota,trulli,8,Brazilian Grand Prix_2007,8,2007,Chinese Grand Prix_2007,13,12,1,0,19,13,7,12,6,Brazilian Grand Prix,toyota_2007
+red_bull,coulthard,9,Brazilian Grand Prix_2007,9,2007,Chinese Grand Prix_2007,8,5,3,0,18,10,6,13,7,Brazilian Grand Prix,red_bull_2007
+williams,nakajima,19,Brazilian Grand Prix_2007,10,2007,Chinese Grand Prix_2007,0,0,0,0,0,-1,5,-1,8,Brazilian Grand Prix,williams_2007
+toyota,ralf_schumacher,15,Brazilian Grand Prix_2007,11,2007,Chinese Grand Prix_2007,20,6,14,0,20,16,7,10,6,Brazilian Grand Prix,toyota_2007
+super_aguri,sato,18,Brazilian Grand Prix_2007,12,2007,Chinese Grand Prix_2007,14,20,-6,0,10,17,10,23,11,Brazilian Grand Prix,super_aguri_2007
+toro_rosso,liuzzi,14,Brazilian Grand Prix_2007,13,2007,Chinese Grand Prix_2007,6,11,-5,0,13,18,8,19,9,Brazilian Grand Prix,toro_rosso_2007
+super_aguri,davidson,20,Brazilian Grand Prix_2007,14,2007,Chinese Grand Prix_2007,22,14,8,0,0,22,10,-1,11,Brazilian Grand Prix,super_aguri_2007
+bmw_sauber,kubica,2,Canadian Grand Prix_2008,1,2008,Monaco Grand Prix_2008,2,5,-3,0,17,4,3,6,2,Canadian Grand Prix,bmw_sauber_2008
+bmw_sauber,heidfeld,8,Canadian Grand Prix_2008,2,2008,Monaco Grand Prix_2008,14,12,2,0,2,5,3,5,2,Canadian Grand Prix,bmw_sauber_2008
+red_bull,coulthard,13,Canadian Grand Prix_2008,3,2008,Monaco Grand Prix_2008,19,15,4,0,16,16,5,10,5,Canadian Grand Prix,red_bull_2008
+toyota,glock,11,Canadian Grand Prix_2008,4,2008,Monaco Grand Prix_2008,12,10,2,0,0,17,6,-1,6,Canadian Grand Prix,toyota_2008
+ferrari,massa,6,Canadian Grand Prix_2008,5,2008,Monaco Grand Prix_2008,3,1,2,2,21,3,1,4,1,Canadian Grand Prix,ferrari_2008
+toyota,trulli,14,Canadian Grand Prix_2008,6,2008,Monaco Grand Prix_2008,13,8,5,0,13,9,6,13,6,Canadian Grand Prix,toyota_2008
+honda,barrichello,9,Canadian Grand Prix_2008,7,2008,Monaco Grand Prix_2008,6,14,-8,0,12,14,9,20,8,Canadian Grand Prix,honda_2008
+toro_rosso,vettel,19,Canadian Grand Prix_2008,8,2008,Monaco Grand Prix_2008,5,19,-14,0,0,12,8,14,7,Canadian Grand Prix,toro_rosso_2008
+mclaren,kovalainen,7,Canadian Grand Prix_2008,9,2008,Monaco Grand Prix_2008,8,4,4,0,4,6,2,7,2,Canadian Grand Prix,mclaren_2008
+williams,rosberg,5,Canadian Grand Prix_2008,10,2008,Monaco Grand Prix_2008,16,6,10,0,10,10,4,9,4,Canadian Grand Prix,williams_2008
+honda,button,20,Canadian Grand Prix_2008,11,2008,Monaco Grand Prix_2008,11,11,0,0,20,13,9,15,8,Canadian Grand Prix,honda_2008
+red_bull,webber,10,Canadian Grand Prix_2008,12,2008,Monaco Grand Prix_2008,4,9,-5,0,9,7,5,12,5,Canadian Grand Prix,red_bull_2008
+toro_rosso,bourdais,18,Canadian Grand Prix_2008,13,2008,Monaco Grand Prix_2008,20,16,4,0,0,15,8,-1,7,Canadian Grand Prix,toro_rosso_2008
+ferrari,massa,2,French Grand Prix_2008,1,2008,Canadian Grand Prix_2008,5,6,-1,2,2,3,1,4,1,French Grand Prix,ferrari_2008
+ferrari,raikkonen,1,French Grand Prix_2008,2,2008,Canadian Grand Prix_2008,18,3,15,2,1,4,1,1,1,French Grand Prix,ferrari_2008
+toyota,trulli,4,French Grand Prix_2008,3,2008,Canadian Grand Prix_2008,6,14,-8,0,21,8,5,13,6,French Grand Prix,toyota_2008
+mclaren,kovalainen,10,French Grand Prix_2008,4,2008,Canadian Grand Prix_2008,9,7,2,0,15,6,3,7,2,French Grand Prix,mclaren_2008
+bmw_sauber,kubica,5,French Grand Prix_2008,5,2008,Canadian Grand Prix_2008,1,2,-1,1,4,1,2,6,2,French Grand Prix,bmw_sauber_2008
+red_bull,webber,6,French Grand Prix_2008,6,2008,Canadian Grand Prix_2008,12,10,2,0,12,7,4,12,5,French Grand Prix,red_bull_2008
+renault,piquet_jr,9,French Grand Prix_2008,7,2008,Canadian Grand Prix_2008,17,15,2,0,0,19,7,-1,3,French Grand Prix,renault_2008
+renault,alonso,3,French Grand Prix_2008,8,2008,Canadian Grand Prix_2008,16,4,12,0,7,9,7,3,3,French Grand Prix,renault_2008
+red_bull,coulthard,7,French Grand Prix_2008,9,2008,Canadian Grand Prix_2008,3,13,-10,0,13,12,4,10,5,French Grand Prix,red_bull_2008
+mclaren,hamilton,13,French Grand Prix_2008,10,2008,Canadian Grand Prix_2008,19,1,18,2,3,2,3,2,2,French Grand Prix,mclaren_2008
+toyota,glock,8,French Grand Prix_2008,11,2008,Canadian Grand Prix_2008,4,11,-7,0,0,13,5,-1,6,French Grand Prix,toyota_2008
+toro_rosso,vettel,12,French Grand Prix_2008,12,2008,Canadian Grand Prix_2008,8,19,-11,0,0,14,9,14,7,French Grand Prix,toro_rosso_2008
+bmw_sauber,heidfeld,11,French Grand Prix_2008,13,2008,Canadian Grand Prix_2008,2,8,-6,0,5,5,2,5,2,French Grand Prix,bmw_sauber_2008
+honda,barrichello,20,French Grand Prix_2008,14,2008,Canadian Grand Prix_2008,7,9,-2,0,11,15,8,20,8,French Grand Prix,honda_2008
+williams,nakajima,15,French Grand Prix_2008,15,2008,Canadian Grand Prix_2008,15,12,3,0,0,11,6,22,4,French Grand Prix,williams_2008
+williams,rosberg,19,French Grand Prix_2008,16,2008,Canadian Grand Prix_2008,10,5,5,0,9,10,6,9,4,French Grand Prix,williams_2008
+toro_rosso,bourdais,14,French Grand Prix_2008,17,2008,Canadian Grand Prix_2008,13,18,-5,0,0,17,9,-1,7,French Grand Prix,toro_rosso_2008
+force_india,fisichella,17,French Grand Prix_2008,18,2008,Canadian Grand Prix_2008,14,17,-3,0,6,18,10,8,-1,French Grand Prix,force_india_2008
+force_india,sutil,18,French Grand Prix_2008,19,2008,Canadian Grand Prix_2008,20,16,4,0,17,22,10,19,-1,French Grand Prix,force_india_2008
+mclaren,hamilton,4,British Grand Prix_2008,1,2008,French Grand Prix_2008,10,13,-3,2,3,4,3,2,2,British Grand Prix,mclaren_2008
+bmw_sauber,heidfeld,5,British Grand Prix_2008,2,2008,French Grand Prix_2008,13,11,2,0,6,5,2,5,2,British Grand Prix,bmw_sauber_2008
+honda,barrichello,16,British Grand Prix_2008,3,2008,French Grand Prix_2008,14,20,-6,0,9,15,8,20,8,British Grand Prix,honda_2008
+ferrari,raikkonen,3,British Grand Prix_2008,4,2008,French Grand Prix_2008,2,1,1,2,1,3,1,1,1,British Grand Prix,ferrari_2008
+mclaren,kovalainen,1,British Grand Prix_2008,5,2008,French Grand Prix_2008,4,10,-6,0,7,6,3,7,2,British Grand Prix,mclaren_2008
+renault,alonso,6,British Grand Prix_2008,6,2008,French Grand Prix_2008,8,3,5,0,2,9,7,3,3,British Grand Prix,renault_2008
+toyota,trulli,14,British Grand Prix_2008,7,2008,French Grand Prix_2008,3,4,-1,0,17,7,5,13,6,British Grand Prix,toyota_2008
+williams,nakajima,15,British Grand Prix_2008,8,2008,French Grand Prix_2008,15,15,0,0,0,11,6,22,4,British Grand Prix,williams_2008
+williams,rosberg,20,British Grand Prix_2008,9,2008,French Grand Prix_2008,16,19,-3,0,12,10,6,9,4,British Grand Prix,williams_2008
+red_bull,webber,2,British Grand Prix_2008,10,2008,French Grand Prix_2008,6,6,0,0,22,8,4,12,5,British Grand Prix,red_bull_2008
+toro_rosso,bourdais,13,British Grand Prix_2008,11,2008,French Grand Prix_2008,17,14,3,0,0,18,9,-1,7,British Grand Prix,toro_rosso_2008
+toyota,glock,12,British Grand Prix_2008,12,2008,French Grand Prix_2008,11,8,3,0,0,13,5,-1,6,British Grand Prix,toyota_2008
+ferrari,massa,9,British Grand Prix_2008,13,2008,French Grand Prix_2008,1,2,-1,3,5,1,1,4,1,British Grand Prix,ferrari_2008
+mclaren,hamilton,1,German Grand Prix_2008,1,2008,British Grand Prix_2008,1,4,-3,3,0,1,3,2,2,German Grand Prix,mclaren_2008
+renault,piquet_jr,17,German Grand Prix_2008,2,2008,British Grand Prix_2008,16,7,9,0,0,18,7,-1,3,German Grand Prix,renault_2008
+ferrari,massa,2,German Grand Prix_2008,3,2008,British Grand Prix_2008,13,9,4,3,0,2,1,4,1,German Grand Prix,ferrari_2008
+bmw_sauber,heidfeld,12,German Grand Prix_2008,4,2008,British Grand Prix_2008,2,5,-3,0,0,5,2,5,2,German Grand Prix,bmw_sauber_2008
+mclaren,kovalainen,3,German Grand Prix_2008,5,2008,British Grand Prix_2008,5,1,4,0,0,6,3,7,2,German Grand Prix,mclaren_2008
+ferrari,raikkonen,6,German Grand Prix_2008,6,2008,British Grand Prix_2008,4,3,1,2,0,3,1,1,1,German Grand Prix,ferrari_2008
+bmw_sauber,kubica,7,German Grand Prix_2008,7,2008,British Grand Prix_2008,14,10,4,1,0,4,2,6,2,German Grand Prix,bmw_sauber_2008
+toro_rosso,vettel,9,German Grand Prix_2008,8,2008,British Grand Prix_2008,19,8,11,0,0,15,9,14,7,German Grand Prix,toro_rosso_2008
+toyota,trulli,4,German Grand Prix_2008,9,2008,British Grand Prix_2008,7,14,-7,0,0,7,4,13,6,German Grand Prix,toyota_2008
+williams,rosberg,13,German Grand Prix_2008,10,2008,British Grand Prix_2008,9,20,-11,0,0,11,6,9,4,German Grand Prix,williams_2008
+renault,alonso,5,German Grand Prix_2008,11,2008,British Grand Prix_2008,6,6,0,0,0,9,7,3,3,German Grand Prix,renault_2008
+toro_rosso,bourdais,15,German Grand Prix_2008,12,2008,British Grand Prix_2008,11,13,-2,0,0,17,9,-1,7,German Grand Prix,toro_rosso_2008
+red_bull,coulthard,10,German Grand Prix_2008,13,2008,British Grand Prix_2008,20,11,9,0,0,13,5,10,5,German Grand Prix,red_bull_2008
+williams,nakajima,16,German Grand Prix_2008,14,2008,British Grand Prix_2008,8,15,-7,0,0,12,6,22,4,German Grand Prix,williams_2008
+force_india,sutil,19,German Grand Prix_2008,15,2008,British Grand Prix_2008,18,18,0,0,0,22,10,19,-1,German Grand Prix,force_india_2008
+force_india,fisichella,20,German Grand Prix_2008,16,2008,British Grand Prix_2008,17,19,-2,0,0,19,10,8,-1,German Grand Prix,force_india_2008
+honda,button,14,German Grand Prix_2008,17,2008,British Grand Prix_2008,15,17,-2,0,0,16,8,15,8,German Grand Prix,honda_2008
+mclaren,kovalainen,2,Hungarian Grand Prix_2008,1,2008,German Grand Prix_2008,5,3,2,0,8,6,3,7,2,Hungarian Grand Prix,mclaren_2008
+toyota,glock,5,Hungarian Grand Prix_2008,2,2008,German Grand Prix_2008,20,11,9,0,0,16,4,-1,6,Hungarian Grand Prix,toyota_2008
+ferrari,raikkonen,6,Hungarian Grand Prix_2008,3,2008,German Grand Prix_2008,6,6,0,2,2,3,1,1,1,Hungarian Grand Prix,ferrari_2008
+renault,alonso,7,Hungarian Grand Prix_2008,4,2008,German Grand Prix_2008,11,5,6,0,4,9,6,3,3,Hungarian Grand Prix,renault_2008
+mclaren,hamilton,1,Hungarian Grand Prix_2008,5,2008,German Grand Prix_2008,1,1,0,4,1,1,3,2,2,Hungarian Grand Prix,mclaren_2008
+renault,piquet_jr,10,Hungarian Grand Prix_2008,6,2008,German Grand Prix_2008,2,17,-15,0,0,11,6,-1,3,Hungarian Grand Prix,renault_2008
+toyota,trulli,9,Hungarian Grand Prix_2008,7,2008,German Grand Prix_2008,9,4,5,0,10,7,4,13,6,Hungarian Grand Prix,toyota_2008
+bmw_sauber,kubica,4,Hungarian Grand Prix_2008,8,2008,German Grand Prix_2008,7,7,0,1,5,4,2,6,2,Hungarian Grand Prix,bmw_sauber_2008
+red_bull,webber,8,Hungarian Grand Prix_2008,9,2008,German Grand Prix_2008,19,8,11,0,9,8,5,12,5,Hungarian Grand Prix,red_bull_2008
+bmw_sauber,heidfeld,15,Hungarian Grand Prix_2008,10,2008,German Grand Prix_2008,4,12,-8,0,3,5,2,5,2,Hungarian Grand Prix,bmw_sauber_2008
+red_bull,coulthard,13,Hungarian Grand Prix_2008,11,2008,German Grand Prix_2008,13,10,3,0,11,14,5,10,5,Hungarian Grand Prix,red_bull_2008
+honda,button,12,Hungarian Grand Prix_2008,12,2008,German Grand Prix_2008,17,14,3,0,21,17,8,15,8,Hungarian Grand Prix,honda_2008
+williams,nakajima,16,Hungarian Grand Prix_2008,13,2008,German Grand Prix_2008,14,16,-2,0,0,13,7,22,4,Hungarian Grand Prix,williams_2008
+williams,rosberg,14,Hungarian Grand Prix_2008,14,2008,German Grand Prix_2008,10,13,-3,0,7,12,7,9,4,Hungarian Grand Prix,williams_2008
+force_india,fisichella,18,Hungarian Grand Prix_2008,15,2008,German Grand Prix_2008,16,20,-4,0,12,19,10,8,-1,Hungarian Grand Prix,force_india_2008
+honda,barrichello,17,Hungarian Grand Prix_2008,16,2008,German Grand Prix_2008,18,18,0,0,18,10,8,20,8,Hungarian Grand Prix,honda_2008
+ferrari,massa,3,Hungarian Grand Prix_2008,17,2008,German Grand Prix_2008,3,2,1,3,13,2,1,4,1,Hungarian Grand Prix,ferrari_2008
+toro_rosso,bourdais,19,Hungarian Grand Prix_2008,18,2008,German Grand Prix_2008,12,15,-3,0,0,18,9,-1,7,Hungarian Grand Prix,toro_rosso_2008
+ferrari,massa,1,European Grand Prix_2008,1,2008,Hungarian Grand Prix_2008,17,3,14,3,2,3,1,4,1,European Grand Prix,ferrari_2008
+mclaren,hamilton,2,European Grand Prix_2008,2,2008,Hungarian Grand Prix_2008,5,1,4,4,9,1,2,2,2,European Grand Prix,mclaren_2008
+bmw_sauber,kubica,3,European Grand Prix_2008,3,2008,Hungarian Grand Prix_2008,8,4,4,1,7,4,3,6,2,European Grand Prix,bmw_sauber_2008
+mclaren,kovalainen,5,European Grand Prix_2008,4,2008,Hungarian Grand Prix_2008,1,2,-1,1,8,6,2,7,2,European Grand Prix,mclaren_2008
+toyota,trulli,7,European Grand Prix_2008,5,2008,Hungarian Grand Prix_2008,7,9,-2,0,13,7,4,13,6,European Grand Prix,toyota_2008
+toro_rosso,vettel,6,European Grand Prix_2008,6,2008,Hungarian Grand Prix_2008,20,11,9,0,0,16,9,14,7,European Grand Prix,toro_rosso_2008
+toyota,glock,13,European Grand Prix_2008,7,2008,Hungarian Grand Prix_2008,2,5,-3,0,0,10,4,-1,6,European Grand Prix,toyota_2008
+williams,rosberg,9,European Grand Prix_2008,8,2008,Hungarian Grand Prix_2008,14,14,0,0,20,13,7,9,4,European Grand Prix,williams_2008
+bmw_sauber,heidfeld,8,European Grand Prix_2008,9,2008,Hungarian Grand Prix_2008,10,15,-5,0,6,5,3,5,2,European Grand Prix,bmw_sauber_2008
+toro_rosso,bourdais,10,European Grand Prix_2008,10,2008,Hungarian Grand Prix_2008,18,19,-1,0,0,18,9,-1,7,European Grand Prix,toro_rosso_2008
+renault,piquet_jr,15,European Grand Prix_2008,11,2008,Hungarian Grand Prix_2008,6,10,-4,0,0,11,5,-1,3,European Grand Prix,renault_2008
+red_bull,webber,14,European Grand Prix_2008,12,2008,Hungarian Grand Prix_2008,9,8,1,0,3,9,6,12,5,European Grand Prix,red_bull_2008
+honda,button,16,European Grand Prix_2008,13,2008,Hungarian Grand Prix_2008,12,12,0,0,18,17,8,15,8,European Grand Prix,honda_2008
+force_india,fisichella,18,European Grand Prix_2008,14,2008,Hungarian Grand Prix_2008,15,18,-3,0,10,19,10,8,-1,European Grand Prix,force_india_2008
+williams,nakajima,11,European Grand Prix_2008,15,2008,Hungarian Grand Prix_2008,13,16,-3,0,0,14,7,22,4,European Grand Prix,williams_2008
+honda,barrichello,19,European Grand Prix_2008,16,2008,Hungarian Grand Prix_2008,16,17,-1,0,11,12,8,20,8,European Grand Prix,honda_2008
+red_bull,coulthard,17,European Grand Prix_2008,17,2008,Hungarian Grand Prix_2008,11,13,-2,0,5,15,6,10,5,European Grand Prix,red_bull_2008
+mclaren,hamilton,1,Chinese Grand Prix_2008,1,2008,Japanese Grand Prix_2008,12,1,11,4,19,1,2,2,2,Chinese Grand Prix,mclaren_2008
+ferrari,massa,3,Chinese Grand Prix_2008,2,2008,Japanese Grand Prix_2008,7,5,2,5,3,2,1,4,1,Chinese Grand Prix,ferrari_2008
+ferrari,raikkonen,2,Chinese Grand Prix_2008,3,2008,Japanese Grand Prix_2008,3,2,1,2,1,4,1,1,1,Chinese Grand Prix,ferrari_2008
+renault,alonso,4,Chinese Grand Prix_2008,4,2008,Japanese Grand Prix_2008,1,4,-3,2,2,7,4,3,3,Chinese Grand Prix,renault_2008
+bmw_sauber,heidfeld,9,Chinese Grand Prix_2008,5,2008,Japanese Grand Prix_2008,9,16,-7,0,7,5,3,5,2,Chinese Grand Prix,bmw_sauber_2008
+bmw_sauber,kubica,11,Chinese Grand Prix_2008,6,2008,Japanese Grand Prix_2008,2,6,-4,1,18,3,3,6,2,Chinese Grand Prix,bmw_sauber_2008
+toyota,glock,12,Chinese Grand Prix_2008,7,2008,Japanese Grand Prix_2008,19,8,11,0,0,11,5,-1,6,Chinese Grand Prix,toyota_2008
+renault,piquet_jr,10,Chinese Grand Prix_2008,8,2008,Japanese Grand Prix_2008,4,12,-8,0,0,12,4,-1,3,Chinese Grand Prix,renault_2008
+toro_rosso,vettel,6,Chinese Grand Prix_2008,9,2008,Japanese Grand Prix_2008,6,9,-3,1,4,8,6,14,7,Chinese Grand Prix,toro_rosso_2008
+red_bull,coulthard,15,Chinese Grand Prix_2008,10,2008,Japanese Grand Prix_2008,20,11,9,0,8,16,7,10,5,Chinese Grand Prix,red_bull_2008
+honda,barrichello,13,Chinese Grand Prix_2008,11,2008,Japanese Grand Prix_2008,13,17,-4,0,15,14,9,20,8,Chinese Grand Prix,honda_2008
+williams,nakajima,17,Chinese Grand Prix_2008,12,2008,Japanese Grand Prix_2008,15,14,1,0,0,15,8,22,4,Chinese Grand Prix,williams_2008
+toro_rosso,bourdais,8,Chinese Grand Prix_2008,13,2008,Japanese Grand Prix_2008,10,10,0,0,0,17,6,-1,7,Chinese Grand Prix,toro_rosso_2008
+red_bull,webber,16,Chinese Grand Prix_2008,14,2008,Japanese Grand Prix_2008,8,13,-5,0,10,10,7,12,5,Chinese Grand Prix,red_bull_2008
+williams,rosberg,14,Chinese Grand Prix_2008,15,2008,Japanese Grand Prix_2008,11,15,-4,0,16,13,8,9,4,Chinese Grand Prix,williams_2008
+honda,button,18,Chinese Grand Prix_2008,16,2008,Japanese Grand Prix_2008,14,18,-4,0,5,18,9,15,8,Chinese Grand Prix,honda_2008
+force_india,fisichella,20,Chinese Grand Prix_2008,17,2008,Japanese Grand Prix_2008,16,20,-4,0,11,19,10,8,-1,Chinese Grand Prix,force_india_2008
+ferrari,massa,1,Brazilian Grand Prix_2008,1,2008,Chinese Grand Prix_2008,2,3,-1,5,2,2,1,4,1,Brazilian Grand Prix,ferrari_2008
+renault,alonso,6,Brazilian Grand Prix_2008,2,2008,Chinese Grand Prix_2008,4,4,0,2,3,6,4,3,3,Brazilian Grand Prix,renault_2008
+ferrari,raikkonen,3,Brazilian Grand Prix_2008,3,2008,Chinese Grand Prix_2008,3,2,1,2,1,4,1,1,1,Brazilian Grand Prix,ferrari_2008
+toro_rosso,vettel,7,Brazilian Grand Prix_2008,4,2008,Chinese Grand Prix_2008,9,6,3,1,18,8,6,14,7,Brazilian Grand Prix,toro_rosso_2008
+mclaren,hamilton,4,Brazilian Grand Prix_2008,5,2008,Chinese Grand Prix_2008,1,1,0,5,7,1,2,2,2,Brazilian Grand Prix,mclaren_2008
+toyota,glock,10,Brazilian Grand Prix_2008,6,2008,Chinese Grand Prix_2008,7,12,-5,0,0,10,5,-1,6,Brazilian Grand Prix,toyota_2008
+mclaren,kovalainen,5,Brazilian Grand Prix_2008,7,2008,Chinese Grand Prix_2008,18,5,13,1,17,7,2,7,2,Brazilian Grand Prix,mclaren_2008
+toyota,trulli,2,Brazilian Grand Prix_2008,8,2008,Chinese Grand Prix_2008,20,7,13,0,8,9,5,13,6,Brazilian Grand Prix,toyota_2008
+red_bull,webber,12,Brazilian Grand Prix_2008,9,2008,Chinese Grand Prix_2008,14,16,-2,0,20,11,7,12,5,Brazilian Grand Prix,red_bull_2008
+bmw_sauber,heidfeld,8,Brazilian Grand Prix_2008,10,2008,Chinese Grand Prix_2008,5,9,-4,0,6,5,3,5,2,Brazilian Grand Prix,bmw_sauber_2008
+bmw_sauber,kubica,13,Brazilian Grand Prix_2008,11,2008,Chinese Grand Prix_2008,6,11,-5,1,5,3,3,6,2,Brazilian Grand Prix,bmw_sauber_2008
+williams,rosberg,18,Brazilian Grand Prix_2008,12,2008,Chinese Grand Prix_2008,15,14,1,0,4,13,8,9,4,Brazilian Grand Prix,williams_2008
+honda,button,17,Brazilian Grand Prix_2008,13,2008,Chinese Grand Prix_2008,16,18,-2,0,19,18,9,15,8,Brazilian Grand Prix,honda_2008
+toro_rosso,bourdais,9,Brazilian Grand Prix_2008,14,2008,Chinese Grand Prix_2008,13,8,5,0,0,17,6,-1,7,Brazilian Grand Prix,toro_rosso_2008
+honda,barrichello,15,Brazilian Grand Prix_2008,15,2008,Chinese Grand Prix_2008,11,13,-2,0,16,14,9,20,8,Brazilian Grand Prix,honda_2008
+force_india,sutil,20,Brazilian Grand Prix_2008,16,2008,Chinese Grand Prix_2008,19,19,0,0,15,20,10,19,-1,Brazilian Grand Prix,force_india_2008
+williams,nakajima,16,Brazilian Grand Prix_2008,17,2008,Chinese Grand Prix_2008,12,17,-5,0,10,15,8,22,4,Brazilian Grand Prix,williams_2008
+force_india,fisichella,19,Brazilian Grand Prix_2008,18,2008,Chinese Grand Prix_2008,17,20,-3,0,22,19,10,8,-1,Brazilian Grand Prix,force_india_2008
