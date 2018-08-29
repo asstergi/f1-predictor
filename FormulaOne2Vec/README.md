@@ -3,3 +3,5 @@ Code for building the Neural Network and a small subset (both row-wise and colum
 
 1. Run `keras_model.py` to build the model and save the resulting embeddings.
 2. Execute `plot_embeddings.py` changing the filenames in rows 67 and 68 in order to plot the respective embeddings using UMAP.
+
+Otherwise, you can just download the learned embeddings and execute `plot_embeddings.py` to plot the respective embeddings using UMAP (you still need to change the filenames in rows 67 and 68).
