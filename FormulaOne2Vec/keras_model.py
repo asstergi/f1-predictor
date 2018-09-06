@@ -55,7 +55,6 @@ if __name__ == '__main__':
     ###### Data tranformations #########
     ####################################
     print ("Transforming data...")
-    unique_races = df.race.unique()
     df['gp'] = df['race'].apply(lambda x: x.split('_')[0])
 
     df_d = df.iloc[np.random.permutation(len(df))]
